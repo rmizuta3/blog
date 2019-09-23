@@ -1,1 +1,1 @@
-偏相関係数とGraphical Lasspを使った変数間の関係性の確認
+偏相関係数とGraphical Lassoを使った変数間の関係性の確認
